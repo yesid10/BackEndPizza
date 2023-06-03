@@ -32,5 +32,68 @@
         "contraseña": "password",
         "imagen": "https://randomuser.me/api/portraits/women/4.jpg"
       }
+      
+    ],
+    "pizzas": [
+      {
+        "id": 1,
+    "nombre": "Pizza Margarita",
+    "descripcion": "Pizza clásica con salsa de tomate, mozzarella y albahaca fresca",
+    "imagen": "https://http2.mlstatic.com/receta-pizza-margarita-D_NQ_NP_836115-MLV25176629094_112016-F.jpg",
+    "precio": 10.99,
+    "comentarios": [
+      "Muy buena pizza, la salsa de tomate es deliciosa",
+      "La pizza llegó caliente y en buen estado",
+      "La mejor pizza que he probado en mucho tiempo"
     ]
-  }
+      },
+    
+      {
+    "id": 2,
+    "nombre": "Pizza Hawaiana",
+    "descripcion": "Pizza con salsa de tomate, mozzarella, jamón y piña",
+    "imagen": "https://tutulli.gelover.com/wp-content/uploads/2021/04/Pizza-hawaiana-1024x768.jpg",
+    "precio": 12.99,
+    "comentarios": [
+      "La pizza estaba buena, pero no me gusta la piña en la pizza",
+      "La pizza llegó un poco fría, pero estaba buena",
+      "La combinación de jamón y piña es perfecta"
+    ]
+    },
+    {
+      "id": 3,
+      "nombre": "Pizza Cuatro Quesos",
+      "descripcion": "Pizza con salsa de tomate, mozzarella, queso azul, queso de cabra y parmesano",
+      "imagen": "https://www.recetin.com/wp-content/uploads/2012/01/pizza_cuatro_quesos.jpg",
+      "precio": 14.99,
+      "comentarios": [
+        "La pizza estaba muy buena, pero un poco salada",
+        "La combinación de quesos es deliciosa",
+        "La pizza llegó caliente y en buen estado"
+      ]
+      },
+      {
+        "id":"4",
+        "nombre":"Pizza Vegetariana",
+        "descripcion":"Pizza con salsa de tomate, mozzarella y una variedad de verduras, como champiñones, pimientos, cebolla y aceitunas",
+        "imagen": "https://img-aws.ehowcdn.com/750x400p/s3.amazonaws.com/photography.prod.demandstudios.com/56551ec8-40b3-4916-a3ae-898db7fe0555.jpg",
+        "precio":10.99,
+        "comentarios":[
+          "La Pizza estaba muy buena"
+        ]
+      }
+
+      
+      
+    
+    
+  
+  
+
+
+  
+  
+   
+  
+
+  
