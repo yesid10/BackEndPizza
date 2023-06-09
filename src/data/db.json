@@ -68,7 +68,7 @@
   
   
     {
-      "id": 1,
+      "id": 4,
       "image": "https://images.unsplash.com/photo-1605478371310-a9f1e96b4ff4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
       "nombre": "Javascript + React Pizza",
       "Precio": 129,
@@ -77,7 +77,7 @@
       "comentario": "¡Me encantó esta pizza! La combinación de sabores entre el Javascript y el React es genial. La base suave y los ingredientes frescos hacen que cada bocado sea delicioso."
     },
     {
-      "id": 2,
+      "id": 5,
       "image": "https://images.pexels.com/photos/3682837/pexels-photo-3682837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "nombre": "Javascript + React Pizza",
       "Precio": 129,
@@ -86,7 +86,7 @@
       "comentario": "Esta pizza es increíble. La base crujiente y los ingredientes frescos son la combinación perfecta. ¡La salsa especial le da un toque único! Definitivamente, volveré a ordenarla."
     },
     {
-      "id": 3,
+      "id": 6,
       "image": "https://images.pexels.com/photos/803290/pexels-photo-803290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "nombre": "Javascript + React Pizza",
       "Precio": 129,
