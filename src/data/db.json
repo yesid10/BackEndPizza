@@ -6,7 +6,8 @@
       "apellido": "Pérez",
       "correo": "juan.perez@example.com",
       "contraseña": "jkl123",
-      "imagen": "https://randomuser.me/api/portraits/men/1.jpg"
+      "imagen": "https://randomuser.me/api/portraits/men/1.jpg",
+      "apodo": "Juancito"
     },
     {
       "id": "2",
@@ -14,7 +15,8 @@
       "apellido": "Gómez",
       "correo": "maria.gomez@example.com",
       "contraseña": "abc123",
-      "imagen": "https://randomuser.me/api/portraits/women/2.jpg"
+      "imagen": "https://randomuser.me/api/portraits/women/2.jpg",
+      "apodo": "Mary"
     },
     {
       "id": "3",
@@ -22,7 +24,8 @@
       "apellido": "Rodríguez",
       "correo": "carlos.rodriguez@example.com",
       "contraseña": "qwerty",
-      "imagen": "https://randomuser.me/api/portraits/men/3.jpg"
+      "imagen": "https://randomuser.me/api/portraits/men/3.jpg",
+      "apodo": "Carlitos"
     },
     {
       "id": "4",
@@ -30,17 +33,18 @@
       "apellido": "López",
       "correo": "laura.lopez@example.com",
       "contraseña": "password",
-      "imagen": "https://randomuser.me/api/portraits/women/4.jpg"
+      "imagen": "https://randomuser.me/api/portraits/women/4.jpg",
+      "apodo": "Laurita"
     }
   ],
-  "frontends": [
+  "pizzas": [
     {
       "id": 1,
       "image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=725&q=80",
       "nombre": "Pizza super especial para Frontends",
       "precio": 99,
       "descripcion": "Esta pizza super especial para Frontends está hecha con una deliciosa masa crujiente y se cubre con una mezcla única de ingredientes frescos y sabrosos. Los comentarios de nuestros clientes destacan su sabor excepcional y lo satisfactorio que es cada bocado.",
-      "foto": "https://example.com/foto1.jpg",
+      "foto": "https://randomuser.me/api/portraits/men/76.jpg",
       "comentario": "¡La pizza fue increíble! Me encantó el sabor y la presentación. Definitivamente la ordenaré nuevamente."
     },
     {
@@ -49,7 +53,7 @@
       "nombre": "Pizza super especial para Frontends",
       "precio": 99,
       "descripcion": "Nuestra pizza super especial para Frontends es una combinación perfecta de sabores intensos y una textura crujiente. Los clientes adoran el equilibrio de ingredientes frescos y el toque distintivo de nuestra salsa secreta. ¡Una experiencia culinaria que no querrás perderte!",
-      "foto": "https://example.com/foto2.jpg",
+      "foto": "https://randomuser.me/api/portraits/men/50.jpg",
       "comentario": "La pizza superó mis expectativas. La combinación de sabores es maravillosa y la textura es perfecta. ¡Sin duda volveré por más!"
     },
     {
@@ -58,18 +62,18 @@
       "nombre": "Pizza super especial para Frontends",
       "precio": 99,
       "descripcion": "Sumérgete en una experiencia inolvidable con nuestra pizza super especial para Frontends. Con una base crujiente y una combinación única de ingredientes frescos y de calidad, esta pizza seguramente te sorprenderá. Los clientes la describen como una explosión de sabores en cada bocado.",
-      "foto": "https://example.com/foto3.jpg",
+      "foto": "https://randomuser.me/api/portraits/men/7.jpg",
       "comentario": "La pizza fue simplemente deliciosa. La masa crujiente y los ingredientes frescos se complementaban perfectamente. Definitivamente una de las mejores pizzas que he probado."
-    }
-  ],
-  "javascript": [
+    },
+  
+  
     {
       "id": 1,
       "image": "https://images.unsplash.com/photo-1605478371310-a9f1e96b4ff4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
       "nombre": "Javascript + React Pizza",
       "Precio": 129,
       "descripcion": "Nuestra pizza Javascript + React es la combinación perfecta de ingredientes frescos y una base suave y esponjosa. Cada bocado te llevará a un viaje de sabores, y los comentarios de nuestros clientes destacan la fusión perfecta entre el sabor tradicional y la creatividad de esta pizza.",
-      "foto": "https://example.com/foto1.jpg",
+      "foto": "https://randomuser.me/api/portraits/women/76.jpg",
       "comentario": "¡Me encantó esta pizza! La combinación de sabores entre el Javascript y el React es genial. La base suave y los ingredientes frescos hacen que cada bocado sea delicioso."
     },
     {
@@ -78,7 +82,7 @@
       "nombre": "Javascript + React Pizza",
       "Precio": 129,
       "descripcion": "¡Prepárate para un festín culinario con nuestra pizza Javascript + React! La base crujiente y los ingredientes frescos combinados con el toque distintivo de nuestra salsa especial harán que cada bocado sea una experiencia deliciosa. Los clientes describen su sabor como sorprendente y adictivo.",
-      "foto": "https://example.com/foto2.jpg",
+      "foto": "https://randomuser.me/api/portraits/women/5.jpg",
       "comentario": "Esta pizza es increíble. La base crujiente y los ingredientes frescos son la combinación perfecta. ¡La salsa especial le da un toque único! Definitivamente, volveré a ordenarla."
     },
     {
@@ -87,7 +91,7 @@
       "nombre": "Javascript + React Pizza",
       "Precio": 129,
       "descripcion": "¿Listo para saborear la perfección? Nuestra pizza Javascript + React es una delicia irresistible que combina una base crujiente, ingredientes frescos y el sabor único de nuestra mezcla de especias. Los clientes no pueden tener suficiente de esta pizza y elogian su sabor excepcional.",
-      "foto": "https://example.com/foto3.jpg",
+      "foto": "https://randomuser.me/api/portraits/women/30.jpg",
       "comentario": "Sin duda, esta es la mejor pizza que he probado. La base crujiente es perfecta y los ingredientes frescos se complementan a la perfección. ¡No puedo esperar para pedirla de nuevo!"
     }
   ]
