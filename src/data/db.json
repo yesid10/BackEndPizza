@@ -33,91 +33,62 @@
       "imagen": "https://randomuser.me/api/portraits/women/4.jpg"
     }
   ],
-  "pizzas": [
+  "Frontends": [
     {
       "id": 1,
-      "nombre": "Pizza Margarita",
-      "descripcion": "Pizza clásica con salsa de tomate, mozzarella y albahaca fresca",
-      "imagen": "https://http2.mlstatic.com/receta-pizza-margarita-D_NQ_NP_836115-MLV25176629094_112016-F.jpg",
-      "precio": 10.99,
-      "comentarios": [
-        {
-          "id": 1,
-          "texto": "¡Deliciosa! Mi favorita.",
-          "usuario": "Usuario1"
-        },
-        {
-          "id": 2,
-          "texto": "Muy sabrosa, recomiendo probarla.",
-          "usuario": "Usuario2"
-        }
-      ]
+      "image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=725&q=80",
+      "nombre": "Pizza super especial para Frontends",
+      "precio": 99,
+      "descripcion": "Esta pizza super especial para Frontends está hecha con una deliciosa masa crujiente y se cubre con una mezcla única de ingredientes frescos y sabrosos. Los comentarios de nuestros clientes destacan su sabor excepcional y lo satisfactorio que es cada bocado.",
+      "foto": "https://example.com/foto1.jpg",
+      "comentario": "¡La pizza fue increíble! Me encantó el sabor y la presentación. Definitivamente la ordenaré nuevamente."
     },
     {
       "id": 2,
-      "nombre": "Pizza Hawaiana",
-      "descripcion": "Pizza con salsa de tomate, mozzarella, jamón y piña",
-      "imagen": "https://tutulli.gelover.com/wp-content/uploads/2021/04/Pizza-hawaiana-1024x768.jpg",
-      "precio": 12.99,
-      "comentarios": [
-        {
-          "id": 1,
-          "texto": "La combinación de jamón y piña es perfecta.",
-          "usuario": "Usuario3"
-        },
-        {
-          "id": 2,
-          "texto": "Rica, pero prefiero sin piña.",
-          "usuario": "Usuario4"
-        }
-      ]
+      "image": "https://images.unsplash.com/photo-1566843972142-a7fcb70de55a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "nombre": "Pizza super especial para Frontends",
+      "precio": 99,
+      "descripcion": "Nuestra pizza super especial para Frontends es una combinación perfecta de sabores intensos y una textura crujiente. Los clientes adoran el equilibrio de ingredientes frescos y el toque distintivo de nuestra salsa secreta. ¡Una experiencia culinaria que no querrás perderte!",
+      "foto": "https://example.com/foto2.jpg",
+      "comentario": "La pizza superó mis expectativas. La combinación de sabores es maravillosa y la textura es perfecta. ¡Sin duda volveré por más!"
     },
     {
       "id": 3,
-      "nombre": "Pizza Cuatro Quesos",
-      "descripcion": "Pizza con salsa de tomate, mozzarella, queso azul, queso de cabra y parmesano",
-      "imagen": "https://www.recetin.com/wp-content/uploads/2012/01/pizza_cuatro_quesos.jpg",
-      "precio": 14.99,
-      "comentarios": [
-        {
-          "id": 1,
-          "texto": "¡Increíblemente sabrosa! Amo los quesos.",
-          "usuario": "Usuario5"
-        },
-        {
-          "id": 2,
-          "texto": "Demasiado queso para mi gusto.",
-          "usuario": "Usuario6"
-        }
-      ]
+      "image": "https://images.unsplash.com/photo-1605478371310-a9f1e96b4ff4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "nombre": "Pizza super especial para Frontends",
+      "precio": 99,
+      "descripcion": "Sumérgete en una experiencia inolvidable con nuestra pizza super especial para Frontends. Con una base crujiente y una combinación única de ingredientes frescos y de calidad, esta pizza seguramente te sorprenderá. Los clientes la describen como una explosión de sabores en cada bocado.",
+      "foto": "https://example.com/foto3.jpg",
+      "comentario": "La pizza fue simplemente deliciosa. La masa crujiente y los ingredientes frescos se complementaban perfectamente. Definitivamente una de las mejores pizzas que he probado."
+    }
+  ],
+  "javascript": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1605478371310-a9f1e96b4ff4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "nombre": "Javascript + React Pizza",
+      "Precio": 129,
+      "descripcion": "Nuestra pizza Javascript + React es la combinación perfecta de ingredientes frescos y una base suave y esponjosa. Cada bocado te llevará a un viaje de sabores, y los comentarios de nuestros clientes destacan la fusión perfecta entre el sabor tradicional y la creatividad de esta pizza.",
+      "foto": "https://example.com/foto1.jpg",
+      "comentario": "¡Me encantó esta pizza! La combinación de sabores entre el Javascript y el React es genial. La base suave y los ingredientes frescos hacen que cada bocado sea delicioso."
     },
     {
-      "id": 4,
-      "nombre": "Pizza Vegetariana",
-      "descripcion": "Pizza con salsa de tomate, mozzarella y una variedad de verduras, como champiñones, pimientos, cebolla y aceitunas",
-      "imagen": "https://img-aws.ehowcdn.com/750x400p/s3.amazonaws.com/photography.prod.demandstudios.com/56551ec8-40b3-4916-a3ae-898db7fe0555.jpg",
-      "precio": 10.99,
-      "comentarios": [
-        {
-          "id": 1,
-          "texto": "Una opción muy saludable y deliciosa.",
-          "usuario": "Usuario7"
-        },
-        {
-          "id": 2,
-          "texto": "Me encanta la combinación de las verduras.",
-          "usuario": "Usuario8"
-        }
-      ]
+      "id": 2,
+      "image": "https://images.pexels.com/photos/3682837/pexels-photo-3682837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "nombre": "Javascript + React Pizza",
+      "Precio": 129,
+      "descripcion": "¡Prepárate para un festín culinario con nuestra pizza Javascript + React! La base crujiente y los ingredientes frescos combinados con el toque distintivo de nuestra salsa especial harán que cada bocado sea una experiencia deliciosa. Los clientes describen su sabor como sorprendente y adictivo.",
+      "foto": "https://example.com/foto2.jpg",
+      "comentario": "Esta pizza es increíble. La base crujiente y los ingredientes frescos son la combinación perfecta. ¡La salsa especial le da un toque único! Definitivamente, volveré a ordenarla."
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/803290/pexels-photo-803290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "nombre": "Javascript + React Pizza",
+      "Precio": 129,
+      "descripcion": "¿Listo para saborear la perfección? Nuestra pizza Javascript + React es una delicia irresistible que combina una base crujiente, ingredientes frescos y el sabor único de nuestra mezcla de especias. Los clientes no pueden tener suficiente de esta pizza y elogian su sabor excepcional.",
+      "foto": "https://example.com/foto3.jpg",
+      "comentario": "Sin duda, esta es la mejor pizza que he probado. La base crujiente es perfecta y los ingredientes frescos se complementan a la perfección. ¡No puedo esperar para pedirla de nuevo!"
     }
   ]
 }
-
-
-
-  
-  
-   
-  
-
-  
